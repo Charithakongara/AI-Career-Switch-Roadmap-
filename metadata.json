@@ -1,0 +1,8 @@
+{
+  "name": "AI Career Switch Roadmap",
+  "description": "Generate an AI-powered personalized roadmap to transition into your dream career with modern dashboard tracking, customized milestones, and resource links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
